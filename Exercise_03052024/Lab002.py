@@ -5,8 +5,28 @@ c=6.8
 d=True
 e=False
 f=8+9j
+g=1111
+h=0b1111
+i=123
+j=0o123
+k=456
+l=0x456
+m=0xBeef
+n=1.9e7
 
-print(type(a))
+
+print(g)             #decimal system
+print(type(g))
+print(h)             #since 0b is mentioned, it is binary number(0,1 are allowed).Now,equivalent decimal number is printed
+print(type(h))
+print(i)             #decimal system
+print(j)             #since 0o is mentioned,it is octal(0-7 are allowed).Now,equivalent decimal is printed
+print(k)             #decimal system
+print(l)             #since 0x is mentioned, it is hexadecimal(0-9,A-f are allowed).Now equivalent decimal is printed
+print(m)             #since 0x is mentioned, it is hexadecimal.Now equivalent deciaml is printed
+print(type(a))         #datatype of a
+print(id(a))           #address of a
+print(a)               #value of a
 print(type(b))
 print(type(c))
 print(type(d))
@@ -19,7 +39,8 @@ print(type(True))
 print(a>b)
 print(int(True))
 print(float(True))
-
+print("c:",c)            #float value, general decimal system
+print("n:",n)            #float value,exponential form
 
 print("***************")
 
