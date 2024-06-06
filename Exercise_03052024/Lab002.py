@@ -1,3 +1,28 @@
+print("*****Numeric datatypes:int,float,complex,bool**********")
+a=2
+b=3
+c=6.8
+d=True
+e=False
+f=8+9j
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
+print(float(a))
+print(int(c))
+print(complex(a,b))
+print(type(True))
+print(a>b)
+print(int(True))
+print(float(True))
+
+
+print("***************")
+
 print("Hello", "World", 123, True, 3.14)
 print("Hi, My name is Megna", "Reddy",sep=" - ")
 
