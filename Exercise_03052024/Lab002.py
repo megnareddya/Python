@@ -23,6 +23,32 @@ print(float(True))
 
 print("***************")
 
+print("******Sequence data types*********")
+
+x=[1,2,3]
+print(x)
+print(type(x))
+
+y={1,2,3,1,2}
+print(y)
+print(type(y))
+
+z=(1,2,3)
+print(z)
+print(type(z))
+
+w="megna"
+print(w)
+print(type(w))
+
+
+print(range(5))
+print(type(range(5)))
+
+
+
+print("***************")
+
 print("Hello", "World", 123, True, 3.14)
 print("Hi, My name is Megna", "Reddy",sep=" - ")
 
