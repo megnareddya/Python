@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de026784-0e38-4be9-a769-28a38d8e70e3" name="Changes" comment="print,user input">
+    <list default="true" id="de026784-0e38-4be9-a769-28a38d8e70e3" name="Changes" comment="string">
+      <change afterPath="$PROJECT_DIR$/Exercise_03052024/Lab006.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_03052024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_03052024/Lab005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
@@ -136,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717725383241</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="string">
+      <option name="closed" value="true" />
+      <created>1717736954615</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717736954615</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +155,7 @@
     <MESSAGE value="Numeric data types" />
     <MESSAGE value="String data type" />
     <MESSAGE value="print,user input" />
-    <option name="LAST_COMMIT_MESSAGE" value="print,user input" />
+    <MESSAGE value="string" />
+    <option name="LAST_COMMIT_MESSAGE" value="string" />
   </component>
 </project>
