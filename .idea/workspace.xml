@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de026784-0e38-4be9-a769-28a38d8e70e3" name="Changes" comment="list vs tuple">
-      <change afterPath="$PROJECT_DIR$/Exercise_03052024/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="de026784-0e38-4be9-a769-28a38d8e70e3" name="Changes" comment="list,tuple,set">
+      <change afterPath="$PROJECT_DIR$/Exercise_03052024/Lab010.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
     "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
@@ -172,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717740710988</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="list,tuple,set">
+      <option name="closed" value="true" />
+      <created>1717779892753</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717779892753</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +194,7 @@
     <MESSAGE value="list datatype" />
     <MESSAGE value="tuple datatype" />
     <MESSAGE value="list vs tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="list vs tuple" />
+    <MESSAGE value="list,tuple,set" />
+    <option name="LAST_COMMIT_MESSAGE" value="list,tuple,set" />
   </component>
 </project>
